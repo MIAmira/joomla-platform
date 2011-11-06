@@ -20,6 +20,8 @@ jimport('joomla.log.log');
  * Acts as a Factory class for application specific objects and provides many
  * supporting API functions. Derived clases should supply the route(), dispatch()
  * and render() functions.
+ * 
+ * This is a test...
  *
  * @package     Joomla.Platform
  * @subpackage  Application

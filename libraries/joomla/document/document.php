@@ -14,7 +14,7 @@ jimport('joomla.environment.response');
 jimport('joomla.filter.filteroutput');
 
 /**
- * Document class, provides an easy interface to parse and display a document
+ * Document class, provides an easy interface to parse and display a document.
  *
  * @package     Joomla.Platform
  * @subpackage  Document
